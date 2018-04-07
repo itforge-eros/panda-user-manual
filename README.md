@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/uteHb6I.png)
-# Project Panda Documentation 🐼
+# Project Panda User Manual 🐼
 
 Welcome to the repository of **Project Panda** (or _The Panda Project_), aka _KMITL Online Space Reservation System_.
 
