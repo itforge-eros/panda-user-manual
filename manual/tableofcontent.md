@@ -3,9 +3,10 @@
 * Find a space
 
 ## For clients
-* Reserve a space [GO](http://pandoc.nyancode.io/#/Manual/reserve-space)
+* Reserve a space [GO](manual/client/reserve-a-space.md)
 * See your pending request
-* Create a report ticket [GO](http://pandoc.nyancode.io/#/Manual/client/create_report)
+* Cancel your request [GO](manual/client/cancel-a-request.md)
+* Create a report ticket [GO](manual/client/report-a-problem.md)
 
 ## For approver only
 * See a pending request
