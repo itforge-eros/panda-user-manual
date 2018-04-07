@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="theme-color" content="#0074d9">
+	<link rel="stylesheet" href="./vendor/buble.css">
+	<link rel="shortcut icon" type="image/png" href="./vendor/panda-128.png"/>
+	<link rel="stylesheet" href="//unpkg.com/docsify-copy-code/styles.css">
+	<script src="//unpkg.com/docsify-copy-code/index.js"></script>
+	<script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
+	<title>Project Panda Documentation</title>
+</head>
+<body>
+	<div id="app">Please wait...</div>
+	<script>
+		window.$docsify = {
+			el: '#app',
+			repo: 'itforge-eros/panda-docs',
+			name: 'Project Panda',
+			loadSidebar: true,
+			subMaxLevel: 2,
+			auto2top: true,
+			search: 'auto',
+			plugins: [
+    					window.DocsifyCopyCodePlugin.init(),
+							EditOnGithubPlugin.create('https://github.com/itforge-eros/panda-docs/edit/master/','','Edit')
+  						]
+		}
+	</script>
+	<script src="./vendor/docsify.min.js"></script>
+	<script src="./vendor/search.min.js"></script>
+	<script src="./vendor/prism-java.min.js"></script>
+	<script>
+		if (typeof navigator.serviceWorker !== 'undefined') {
+			navigator.serviceWorker.register('sw.js')
+		}
+	</script>
+
+</body>
+</html>
