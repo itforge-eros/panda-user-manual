@@ -6,9 +6,10 @@ Welcome to the repository of **Project Panda** (or _The Panda Project_), aka _KM
 # ![](https://png.icons8.com/ios/30/000000/project.png) The Panda Project
 The Panda Project sources are hosted on GitHub.
 
-* Project Panda API :            [itforge-eros/panda-api](https://github.com/itforge-eros/panda-api)
+* Project Panda API : [itforge-eros/panda-api](https://github.com/itforge-eros/panda-api)
 * Project Panda Front End : [itforge-eros/panda-website](https://github.com/itforge-eros/panda-website)
 * Project Panda Documentation : [itforge-eros/panda-docs](https://github.com/itforge-eros/panda-docs)
+* Project Panda User Manual : [itforge-eros/panda-user-manual](https://github.com/itforge-eros/panda-user-manual)
 
 # ![](https://png.icons8.com/ios/30/000000/launched-rocket.png) Starting up the server
 To preview the website, please run
