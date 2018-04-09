@@ -2,41 +2,24 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="theme-color" content="#0074d9">
-	<link rel="stylesheet" href="./vendor/buble.css">
-	<link rel="shortcut icon" type="image/png" href="./vendor/panda-128.png"/>
-	<link rel="stylesheet" href="//unpkg.com/docsify-copy-code/styles.css">
-	<script src="//unpkg.com/docsify-copy-code/index.js"></script>
-	<script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
-	<title>Project Panda User Manual</title>
+	<title>Document</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="description" content="Description">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-	<div id="app">Loading......</div>
+	<div id="app"></div>
 	<script>
 		window.$docsify = {
-			el: '#app',
-			repo: 'itforge-eros/panda-user-manual',
 			name: 'Project Panda',
+			repo: 'itforge-eros/panda-user-manual',
 			loadSidebar: true,
-			loadNavbar: true,
-			subMaxLevel: 2,
 			auto2top: true,
-			search: 'auto',
-			plugins: [
-    					window.DocsifyCopyCodePlugin.init(),
-							EditOnGithubPlugin.create('https://github.com/itforge-eros/panda-user-manual/edit/master/','','Edit')
-  						]
+			search: 'auto'
 		}
 	</script>
-	<script src="./vendor/docsify.min.js"></script>
+	<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 	<script src="./vendor/search.min.js"></script>
-	<script src="./vendor/prism-java.min.js"></script>
-	<script>
-		if (typeof navigator.serviceWorker !== 'undefined') {
-			navigator.serviceWorker.register('sw.js')
-		}
-	</script>
-
 </body>
 </html>
