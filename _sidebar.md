@@ -3,7 +3,9 @@
   * [Table of contents](manual/tableofcontent.md)
 
 * Clients
+  * [Find a space](manual/client/search-for-space.md)
   * [Reserve a space](manual/client/reserve-a-space.md)
+  * [Check pending request](manual/client/check-reqest.md)
   * [Cancel your request](manual/client/cancel-a-request.md)
   * [Report a problem](manual/client/report-a-problem.md)
 
