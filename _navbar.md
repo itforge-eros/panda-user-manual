@@ -2,7 +2,7 @@
 
 * Panda Repo
 
-* [itforge-eros/panda-api](https://github.com/itforge-eros/panda-api)
-* [itforge-eros/panda-website](https://github.com/itforge-eros/panda-website)
-* [itforge-eros/panda-docs](https://github.com/itforge-eros/panda-docs)
-* [itforge-eros/panda-user-manual](https://github.com/itforge-eros/panda-user-manual)
+  * [Panda User Manual](https://github.com/itforge-eros/panda-user-manual)
+  * [Panda APIs](https://github.com/itforge-eros/panda-api)
+  * [Panda Website Development](https://github.com/itforge-eros/panda-website)
+  * [Panda Documentation](https://github.com/itforge-eros/panda-docs)
