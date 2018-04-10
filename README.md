@@ -3,7 +3,7 @@
 
 Welcome to the repository of **Project Panda** (or _The Panda Project_), aka _KMITL Online Space Reservation System_.
 
-# ![](https://png.icons8.com/ios/30/000000/project.png) The Panda Project
+# 🗂 The Panda Project
 The Panda Project sources are hosted on GitHub.
 
 * Project Panda API : [itforge-eros/panda-api](https://github.com/itforge-eros/panda-api)
@@ -11,16 +11,14 @@ The Panda Project sources are hosted on GitHub.
 * Project Panda Documentation : [itforge-eros/panda-docs](https://github.com/itforge-eros/panda-docs)
 * Project Panda User Manual : [itforge-eros/panda-user-manual](https://github.com/itforge-eros/panda-user-manual)
 
-# ![](https://png.icons8.com/ios/30/000000/launched-rocket.png) Starting up the server
+# 🚀 Starting up the server
 To preview the website, please run
 ```
 python -m SimpleHTTPServer 3000
 ```
 and the website will be available at `http://localhost:3000`
 
-> We have deployed it here : http://pandoc.nyancode.io
-
-# ![](https://png.icons8.com/ios/30/000000/pull-request.png) Contributing
+# 🛠 Contributing
 We are happy to let you become the part of the project. <br>
 NOTE : Pull request approving process will start after 7th May 2018.
 
@@ -33,7 +31,7 @@ Steps to contribute to our project
 
 > See [Docsify documentation](https://docsify.js.org/) for more info on how to use Docsify.
 
-# ![](https://png.icons8.com/ios/30/000000/groups.png) Team Members
+# 👨‍👩‍👧‍👦 Team Members
 We are from Information Technology, King Mongkut Institute of Technology Ladkrabang
 
 ||First Name|Last Name|GitHub Username|Student ID|
