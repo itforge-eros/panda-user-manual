@@ -1,6 +1,6 @@
-* Language
-	* [🇹🇭 ไทย](/th/)
+* Change Language
 	* [🇺🇸 English](/)
+	* [🇹🇭 ไทย](/th/)
 
 * Panda Repo
 

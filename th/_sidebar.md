@@ -1,24 +1,21 @@
 <!-- _sidebar.md -->
-* คู่มือผู้ใช้
-  * [Table of contents](th/tableofcontent.md)
-
-* Clients
-  * [Find a space](th/client/search-for-space.md)
-  * [Reserve a space](th/client/reserve-a-space.md)
-  * [Check pending request](th/client/check-reqest.md)
-  * [Cancel your request](th/client/cancel-a-request.md)
-  * [Report a problem](th/client/report-a-problem.md)
+* สำหรับผู้ใช้ทั่วไป
+  * [ค้นหาสถานที่](th/client/search-for-space.md)
+  * [จองสถานที่](th/client/reserve-a-space.md)
+  * [ดูสถานนะการขอใช้สถานที่](th/client/check-reqest.md)
+  * [ยกเลิกการขอใช้สถานที่](th/client/cancel-a-request.md)
+  * [แจ้งปัญหาของสถานที่](th/client/report-a-problem.md)
 
 * Approver
-  * [Approve the request](th/approver/approve-the-request.md)
+  * [อนุมัติ/ไม่อนุมัติการใช้สถานที่](th/approver/approve-the-request.md)
 
 * Administrator
-  * [Edit a space information](th/admin/edit-space-info.md)
-  * [Add a role to user](th/admin/add-role.md)
-  * [Edit a role from user](th/admin/edit-role.md)
-  * [Revoke a role from user](th/admin/remove-role.md)
-  * [Create a new group](th/admin/create-group.md)
-  * [Edit a group](th/admin/edit-group.md)
-  * [Delete a group](th/admin/delete-group.md)
-  * [Assign a permission to group](th/admin/assign-permission.md)
-  * [Revoke a permission from group](th/admin/remove-permission.md)
+  * [แก้ไขข้อมูลการใช้สถานที่](th/admin/edit-space-info.md)
+  * [เพี่มผู้ใช้เข้ากลุ่มผู้ใช้งาน](th/admin/add-role.md)
+  * [แก้ไขข้อมูลกลุ่มผู้ใช้งาน](th/admin/edit-role.md)
+  * [ลบกลุ่มผู้ใช้งาน](th/admin/remove-role.md)
+  * [สร้่างกลุ่มผู้ใช้ใหม่](th/admin/create-group.md)
+  * [แก้ไขข้อมูลของกลุ่มผู้ใช้](th/admin/edit-group.md)
+  * [ลบกลุ่มผู้้ใช้](th/admin/delete-group.md)
+  * [ตั้งการอนุญาติให้กับกลุ่มผู้ใช้งาน](th/admin/assign-permission.md)
+  * [ยกเลิกการอนุญาติของกลุ่มผู้ใช้งาน](th/admin/remove-permission.md)

@@ -1,6 +1,3 @@
-* User Manual
-  * [Table of contents](tableofcontent.md)
-
 * Clients
   * [Find a space](client/search-for-space.md)
   * [Reserve a space](client/reserve-a-space.md)
