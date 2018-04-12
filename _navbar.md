@@ -1,4 +1,6 @@
-<!-- _navbar.md -->
+* Change Language
+	* [🇺🇸 English](/)
+	* [🇹🇭 ไทย](/th/)
 
 * Panda Repo
 

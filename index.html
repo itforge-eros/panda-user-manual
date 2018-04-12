@@ -12,23 +12,45 @@
 		display: block;
 		text-align: center;
 		margin-left: auto;
-    margin-right: auto;
+		margin-right: auto;
 	}
 	</style>
 </head>
 <body>
 	<div id="app"></div>
-	<script>
-		window.$docsify = {
-			name: 'Project Panda',
-			repo: 'itforge-eros/panda-user-manual',
-			loadSidebar: true,
-			loadNavbar: true,
-			auto2top: true,
-			search: 'auto'
+	<script type="text/javascript">
+	window.$docsify = {
+		auto2top: true,
+		basePath: '/',
+		coverpage: {
+			'/': '_coverpage.md',
+			'/th/': '_coverpage.md'
+		},
+		executeScript: true,
+		loadSidebar: true,
+		loadNavbar: true,
+		mergeNavbar: true,
+		maxLevel: 4,
+		subMaxLevel: 1,
+		name: 'Panda User Manual',
+		search: {
+			noData: {
+				'/th/': 'ไม่พบผลลัพธ์',
+				'/': 'No result'
+			},
+			paths: 'auto',
+			placeholder: {
+				'/th/': '🔍 ค้นหา',
+				'/': '🔍 Search for topics'
+			}
 		}
+	}
 	</script>
-	<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+	<script src="./vendor/docsify.min.js"></script>
 	<script src="./vendor/search.min.js"></script>
+
+	<!--Additional Plugins
+	<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+-->
 </body>
 </html>
