@@ -1,7 +1,6 @@
-<!-- _navbar.md -->
-
-* [:th:](/th)
-* [:us:, :uk:](/en)
+* Language
+	* [🇹🇭 ไทย](/th)
+	* [🇺🇸 English](/en)
 
 * Panda Repo
 
