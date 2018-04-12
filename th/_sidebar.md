@@ -1,24 +1,24 @@
 <!-- _sidebar.md -->
 * คู่มือผู้ใช้
-  * [Table of contents](manual/tableofcontent.md)
+  * [Table of contents](th/tableofcontent.md)
 
 * Clients
-  * [Find a space](manual/client/search-for-space.md)
-  * [Reserve a space](manual/client/reserve-a-space.md)
-  * [Check pending request](manual/client/check-reqest.md)
-  * [Cancel your request](manual/client/cancel-a-request.md)
-  * [Report a problem](manual/client/report-a-problem.md)
+  * [Find a space](th/client/search-for-space.md)
+  * [Reserve a space](th/client/reserve-a-space.md)
+  * [Check pending request](th/client/check-reqest.md)
+  * [Cancel your request](th/client/cancel-a-request.md)
+  * [Report a problem](th/client/report-a-problem.md)
 
 * Approver
-  * [Approve the request](manual/approver/approve-the-request.md)
+  * [Approve the request](th/approver/approve-the-request.md)
 
 * Administrator
-  * [Edit a space information](manual/admin/edit-space-info.md)
-  * [Add a role to user](manual/admin/add-role.md)
-  * [Edit a role from user](manual/admin/edit-role.md)
-  * [Revoke a role from user](manual/admin/remove-role.md)
-  * [Create a new group](manual/admin/create-group.md)
-  * [Edit a group](manual/admin/edit-group.md)
-  * [Delete a group](manual/admin/delete-group.md)
-  * [Assign a permission to group](manual/admin/assign-permission.md)
-  * [Revoke a permission from group](manual/admin/remove-permission.md)
+  * [Edit a space information](th/admin/edit-space-info.md)
+  * [Add a role to user](th/admin/add-role.md)
+  * [Edit a role from user](th/admin/edit-role.md)
+  * [Revoke a role from user](th/admin/remove-role.md)
+  * [Create a new group](th/admin/create-group.md)
+  * [Edit a group](th/admin/edit-group.md)
+  * [Delete a group](th/admin/delete-group.md)
+  * [Assign a permission to group](th/admin/assign-permission.md)
+  * [Revoke a permission from group](th/admin/remove-permission.md)
