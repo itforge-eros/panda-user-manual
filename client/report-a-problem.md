@@ -1,7 +1,7 @@
 # Report a problem
 
 ## Step 1 - Choose a room to Report
-Requires user to go into a space information page by [searching a space](/manual/search-for-space.md)
+Requires user to go into a space information page by [searching a space](client/search-for-space.md)
 
 You can report a problem from one space at a time.
 

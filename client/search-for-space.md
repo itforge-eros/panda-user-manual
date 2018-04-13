@@ -51,4 +51,4 @@ User with administration permission can add more information about the space at 
 
 At the bottom of the page, you can start reserve that space. Time that is count as available will be marked in Green. User can click or swipe the time you want to reserve and click the calendar to change a date of reservation.
 
-### [[NEXT UP] Reserve a space -->>](manual/client/reserve-a-space.md)
+### [[NEXT UP] Reserve a space -->>](/client/reserve-a-space.md)
