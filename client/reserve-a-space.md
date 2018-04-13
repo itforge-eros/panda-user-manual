@@ -1,7 +1,7 @@
 # Searching for rooms availability
 This is the first step for you to reserve a room with us. All of the functions will be opened to everyone to search for your perfect space. But in order to reserve that space, signing in to the service is required.
 
-> If you have not done [search for space](manual/client/search-for-space.md) step, please do so before proceeding
+> If you have not done [search for space](client/search-for-space.md) step, please do so before proceeding
 
 ## Step 1 - Choose a time to reserve
 At the bottom of the room photo profile, there is a reserve card.<br>
@@ -41,4 +41,4 @@ You will get a notification in inbox of a confirmation ticket. That ticket is us
 
 Note : If you like to cancel a reservation, you might need to contact faculty administration for emergency cancellation. (Please see our reservation cancellation policy for more information)
 
-### [[NEXT UP] Check pending request -->](manual/client/check-request.md)
+### [[NEXT UP] Check pending request -->](client/check-reqest.md)

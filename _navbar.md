@@ -1,4 +1,4 @@
-* Change Language
+* 🌐 Change Language
 	* [🇹🇭 ไทย](/th/)
 	* [🇺🇸 English](/)
 
