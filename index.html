@@ -1,53 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<meta name="description" content="Description">
-	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-	<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-
-	<link rel="stylesheet" href="website.css"/>
-
-	<link href="https://fonts.googleapis.com/css?family=Kanit|Karla" rel="stylesheet">
-
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link href="https://fonts.googleapis.com/css?family=Kanit|Karla" rel="stylesheet">
+  <link rel="shortcut icon" type="image/png" href="./vendor/panda-128.png"/>
+  <style>
+  .markdown-section img + em {
+    display: block;
+    text-align: center;
+  }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Karla', sans-serif;
+  }
+  </style>
 </head>
 <body>
-	<div id="app"></div>
-	<script type="text/javascript">
-	window.$docsify = {
-		auto2top: true,
-		basePath: '/',
-		coverpage: {
-			'/': '_coverpage.md',
-			'/th/': 'th/_coverpage.md'
-		},
-		executeScript: true,
-		loadSidebar: true,
-		loadNavbar: true,
-		mergeNavbar: true,
-		maxLevel: 1,
-		subMaxLevel: 1,
-		name: 'Panda User Manual',
-		search: {
-			noData: {
-				'/th/': 'ไม่พบผลลัพธ์',
-				'/': 'No result'
-			},
-			paths: 'auto',
-			placeholder: {
-				'/th/': '🔍 ค้นหา',
-				'/': '🔍 Search for topics'
-			}
-		}
-	}
-	</script>
-	<script src="./vendor/docsify.min.js"></script>
-	<script src="./vendor/search.min.js"></script>
-
-	<!--Additional Plugins-->
+  <div id="app"></div>
+  <script>
+  window.$docsify = {
+    name: '',
+    repo: '',
+    auto2top: true,
+    basePath: '/',
+    coverpage: {
+      '/': '_coverpage.md',
+      '/th/': '_coverpage.md'
+    },
+    executeScript: true,
+    loadSidebar: true,
+    loadNavbar: true,
+    mergeNavbar: true,
+    maxLevel: 1,
+    subMaxLevel: 1,
+    name: 'Panda User Manual',
+    search: {
+      noData: {
+        '/th/': 'ไม่พบผลลัพธ์',
+        '/': 'No result'
+      },
+      paths: 'auto',
+      placeholder: {
+        '/th/': '🔍 ค้นหา',
+        '/': '🔍 Search for topics'
+      }
+    }
+  }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+	<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+	<script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+	<script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
 	<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
-
+	<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<!--Additional Plugins
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+-->
 </body>
 </html>
