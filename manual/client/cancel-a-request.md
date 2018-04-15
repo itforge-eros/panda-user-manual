@@ -1,20 +1,19 @@
-# Cancel a request
-Client can cancel their request before the time that request.<br>
-If you liked to cancel a request during the requested time, please contact educational support for manual cancellation.
+# ยกเลิกการจองห้อง
+ผู้ยื่นจองสามารถยกเลิกการจองได้ก่อนจะถึงช่วงเวลาที่จองไป<br>
+ถ้าต้องการยกเลิกการจอง เมื่อถึงช่วงเวลาที่จองไปแล้ว, กรุณาติดต่อเจ้าหน้าที่ฝ่ายบริการการศึกษา
 
-# Step 1
-Click on the request tab
+# ขั้นที่ 1
+กดแถบการจอง
 
-# Step 2
-Select your request that you want to edit
+# ขั้นที่ 2
+เลือกการจองที่ต้องการแก้ไข
 
-# Step 3
-Click `cancel` button to start the cancellation process
+# ขั้นที่ 3
+กดปุ่มยกเลิก เพื่อเริ่มกระบวนการยกเลิก
+หมายเหตุ : หลังการยกเลิก, การจองของผู้จองจะถูกยกเลิกทันที. กรุณาตรวจสอบให้แน่ใจว่าต้องการยกเลิกจริงๆ
 
-NOTE : After a cancellation, your reservation will be canceled indefinitely. Make sure that you are actually wants to cancel.
+# ขั้นที่ 4
+กดปุ่มยืนยัน
 
-# Step 4
-Click confirm button
-
-# Step 5
-Your cancellation has been confirmed.
+# ขั้นที่ 5
+การยกเลิกได้รับการอนุมัติ
