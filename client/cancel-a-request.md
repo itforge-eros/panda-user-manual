@@ -1,4 +1,4 @@
-
+# Cancel a request
 
 ## Step 1
 Click on the request tab
