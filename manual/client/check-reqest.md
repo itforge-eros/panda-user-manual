@@ -1,9 +1,9 @@
-# Check a request status
+# ตรวจสอบสถานะการจอง
 
-# Step 1 - Click request tab
+# ขั้นที่ 1 - กดแถบการจอง
 ![](../../img/navigation-bar/my-reqest-button.png)
 
-# Step 2 - Click the request you want to see
+# ขั้นที่ 2 - กดการจองที่ต้องการเพื่อดูรายละเอียดการจองนั้น
 
 
-### [[NEXT UP] Cancel a request -->](manual/client/cancel-a-request.md)
+
