@@ -1,6 +1,5 @@
 # จองสถานที่
 
-> If you have not done [search for space](client/search-for-space.md) step, please do so before proceeding
 
 ## ขั้นที่ 1 - เริ่มจากค้นหาห้องที่ว่าง และ เลือกเวลาที่จะจอง
 ใต้รูปห้อง จะมีบัตรการจอง<br>
