@@ -22,7 +22,7 @@
     name: 'Panda User Manual',
     repo: 'https://github.com/itforge-eros/panda-user-manual',
     auto2top: true,
-    basePath: '/docs',
+    basePath: '/',
     coverpage: {
       '/': '_coverpage.md',
       '/th/': '_coverpage.md'
@@ -34,6 +34,7 @@
     maxLevel: 1,
     subMaxLevel: 1,
     name: 'Panda User Manual',
+    routerMode: 'history',
     search: {
       noData: {
         '/th/': 'ไม่พบผลลัพธ์',
@@ -44,7 +45,11 @@
         '/th/': '🔍 ค้นหา',
         '/': '🔍 Search for topics'
       }
-    }
+    },
+    notFoundPage: {
+    '/': '404.md',
+    '/th': 'th/404.md'
+  }
   }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
