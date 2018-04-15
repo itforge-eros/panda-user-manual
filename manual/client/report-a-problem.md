@@ -1,6 +1,7 @@
 # รายงานปัญหา
 
-## ขั้นที่ 1 - กดค้นหาห้องที่จะรายงาน ดูได้จากลิงก์นี้
+## ขั้นที่ 1 - กดค้นหาพื้นที่ที่จะรายงาน ดูได้จากลิงก์นี้
+https://github.com/itforge-eros/panda-user-manual/blob/tiger-develop/manual/client/search-for-space.md
 
 ## ขั้นที่ 2 - กดปุ่มรายงานปัญหา
 ![](../../img/report-a-problem/report-button.png)
