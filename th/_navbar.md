@@ -1,8 +1,8 @@
-* 🌐 Change Language
-	* [🇹🇭 ไทย](/th/)
+* 🌐 เปลี่ยนภาษา
 	* [🇺🇸 English](/)
+	* [🇹🇭 ไทย](/th/)
 
-* Panda Repo
+* Repo ของทีมแพนด้า
 
   * [Panda User Manual](https://github.com/itforge-eros/panda-user-manual)
   * [Panda APIs](https://github.com/itforge-eros/panda-api)

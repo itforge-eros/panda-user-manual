@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/uteHb6I.png)
-# Project Panda User Manual 🐼
+# คู่มือผู้ใช้ 🐼
 
 Welcome to the repository of **Project Panda** (or _The Panda Project_), aka _KMITL Online Space Reservation System_.
 
@@ -17,17 +17,6 @@ To preview the website, please run
 python -m SimpleHTTPServer 3000
 ```
 and the website will be available at `http://localhost:3000`
-
-# Docsify related
-This repository is run using Docsify repository. You should install its CLI
-```
-npm i docsify-cli -g
-```
-
-and run the server using CLI
-```
-docsify serve
-```
 
 # 🛠 Contributing
 We are happy to let you become the part of the project. <br>
