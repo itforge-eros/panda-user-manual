@@ -1,7 +1,10 @@
 # แก้ไขข้อมูลกลุ่มผู้ใช้งาน
+
 ## ขั้นที่ 1 เข้าหน้าจัดการสิทธิ์
 ![](../../img/navigation-bar/permission-button.png)
+
 ## ขั้นที่ 2 กดเลือกกลุ่มที่จะแก้ไขผู้ใช้ ตรงปุ่มฟันเฟือง
 ![](../../img/manage-role-permission/overall.png)
+
 ## ขั้นที่ 3 กดรูปถังขยะเพื่อลบผู้ใช้ออกจากกลุ่ม
 ![](../../img/manage-role-permission/user-group.png)
