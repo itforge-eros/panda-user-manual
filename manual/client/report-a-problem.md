@@ -1,61 +1,12 @@
-# Report a problem
+# รายงานปัญหา
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Step 1 - Search room
-![](../../img/search-page/simple.png)
-*Exhibit A : Search page*
-=======
-## Step 1 - Choose a room to Report
-Requires user to go into a space information page by [searching a space](/manual/search-for-space.md)
+## ขั้นที่ 1 - ค้นหาห้องที่จะรายงาน ดูได้จากลิงก์นี้
 
-You can report a problem from one space at a time.
->>>>>>> origin/develop
-
-## Step 2 - Click report a problem link
-Click the "Report a problem" button at the bottom of the photo as Exhibit A
-
+## ขั้นที่ 2 - กดลิงก์ รายงานปัญหา
 ![](../../img/report-a-problem/report-button.png)
-*Exhibit A : Report a problem button is at the bottom of the space photo*
 
-## Step 3 - Create a report
-By clicking the "Report a problem" button, this screen (as Exhibit B) will show up and you can type in the information about the space.
-
+## ขั้นที่ 3 - สร้างรายงาน
+กดปุ่ม รายงานปัญหา เพื่อเข้าสู่หน้าการกรอกเอกสารรายงานปัญหา
 ![](../../img/report-a-problem/report-form.png)
-*Exhibit B : Report a problem form*
-
-Your information can lead to faster service and repair. This report will go to administrator automatically with your basic information.
-
-## Step 4 - Submit a report
-<<<<<<< HEAD
-=======
-## Step 1 - Choose a room to Report
-Requires user to go into a space information page by [searching a space](/manual/search-for-space.md)
-
-You can report a problem from one space at a time.
-
-## Step 2 - Click report a problem link
-Click the "Report a problem" button at the bottom of the photo as Exhibit A
-
-![](../../img/report-a-problem/report-button.png)
-*Exhibit A : Report a problem button is at the bottom of the space photo*
-
-## Step 3 - Create a report
-By clicking the "Report a problem" button, this screen (as Exhibit B) will show up and you can type in the information about the space.
-
-![](../../img/report-a-problem/report-form.png)
-*Exhibit B : Report a problem form*
-
-Your information can lead to faster service and repair. This report will go to administrator automatically with your basic information.
-
-## Step 4 - Submit a report
-=======
->>>>>>> origin/develop
-Click the "submit" button to send your report to administrator.
-
-![](../../img/report-a-problem/send-button.png)
-*Exhibit C : Submit button*
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/develop
+หมายเหตุ: รายงานนี้จะถูกส่งไปให้ผู้ดูแลระบบ
+## ขั้นที่ 4 - กดปุ่มยืนยันการรายงาน
