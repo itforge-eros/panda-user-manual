@@ -1,11 +1,15 @@
-# ปฏิเสธการจอง
+# ปฏิเสธคำร้องการใช้สถานที่
 
 ## ขั้นที่ 1 - ไปยังรายการการจอง
 กดปุ่มจัดการคำร้อง
 
 ![](../../img/navigation-bar/manage-request-button.png)
 
+ดูรายการคำร้อง
+
 ![](../../img/manage-request/overall.png)
+
+ดูรายละเอียดคำร้อง เพื่อเป็นส่วนในการตัดสินใจ
 
 ![](../../img/user-request/description.png)
 
