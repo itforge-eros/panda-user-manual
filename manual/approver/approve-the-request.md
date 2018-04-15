@@ -1,37 +1,30 @@
-# Approve a request
-As your role as a approver, you can make a approval on the request made by client.<br>
-Request that does not require a request or request that does not require your role will not be shown up.
+# อนุมัติการจอง
+ผู้อนุมัติจะสามารถตัดสินใจอนุมัติ หรือ ปฏิเสธการจองของผู้จอง.<br>
+การจองที่ไม่จำเป็นต้องใช้ผู้อนุมัติจะไม่แสดงในรายการ.
 
-# Step 1 - Go to a request
-Click the `manage approval` button
+# ขั้นที่ 1 - ไปยังรายการการจอง
+กดปุ่มจัดการคำร้อง
 ![](../../img/navigation-bar/manage-request-button.png)
-*Exhibit A - Manage Request button*
 
-and it will lead to this page. It shows the request(s) that you can approve.
+จะไปยังหน้าแสดงรายการคำร้องที่คุณสามารถจัดการได้.
 
 ![](../../img/manage-request/overall.png)
-*Exhibit B - All pending approval that you can approve*
 
-# Step 2 - See the request description
-Click on the request that you want to approve and the request description will be shown.
-
+# ขั้นที่ 2 - ดูรายละเอียดของการจอง
+กดการจองที่ต้องการตัดสินใจ เพื่อดูรายละเอียด และ เหตุผลของการจองนั้น
 ![](../../img/user-request/description.png)
-*Exhibit C - Description of the request*
 
-An information about the request will be shown.
+ข้อมูลการจองจะถูกแสดง
 
-# Step 3
-At the end of the description, there is a approve or decline button as in Exhibit D
+# ขั้นที่ 3 - การตัดสินใจ อนุมัติ หรือ ปฏิเสธการจอง
+กดปุ่ม อนุมัติ หรือ ปฏิเสธ
 
 ![](../../img/manage-request/approve-decline-button.png)
-*Exhibit D - Approve and Decline button*
 
-NOTE : Your decision will be reported to client and administrator for further audits.
+หมายเหตุ : การตัดสินใจนี้จะแจ้งเตือนไปยังผู้จอง และ ผู้ดูแลระบบ
 
-# Step 4
-After clicking either "Approve" or "Decline" button, you must typed in a password again for your approval to be confirmed.
+# ขั้นที่ 4 - พิมพ์รหัสผ่านผู้ใช้เพื่อยืนยันการตัดสินใจ และทำให้การตัดสินใจเป็นผล
 
 ![](../../img/manage-request/password-confirmation.png)
-*Exhibit E - Password confirmation*
 
-After that, that request will be processed by others or declined based on your approvals.
+หลังจากนั้น, การจองนั้นจะถูกตัดสินใจโดยผู้อนุมัติคนอื่นต่อไป หรือ อาจเป็นผลตามที่ผู้อนุมัติกระทำได้เลย
