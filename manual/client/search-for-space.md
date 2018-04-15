@@ -1,54 +1,45 @@
-# Search for available space
-To find your very best match of your usage, this step follows you from searching for a room and let you explore the space that you can reserve.
+# เลือกพื้นที่ว่าง
 
-## Step 1 - Go to Search page
-Click the search icon to go search.<br>
-Note : Landing page is a search page.
+## ขั้นที่ 1 - ไปยังหน้าค้นหา
+กดปุ่มค้นหาเพื่อเข้าสู่การค้นหา.<br>
+หมายเหตุ : หน้าเริ่มต้นเป็นหน้าค้นหา.
 
 ![](../../img/navigation-bar/search-button.png)
-*Exhibit A : Search button*
 
-## Step 2 - Search for available Space
-In the landing page, type in a name of the space that you want to reserve.<br>
-Or starts with giving only a date that you want to reserve.
+## Step 2 - ค้นหาพื้นที่ว่าง
+พิมพ์ชื่อห้องที่ต้องการจอง<br>
+หรือเริ่มด้วยการใส่เฉพาะวันที่จะจอง
 
 ![Search Page](../../img/search-page/simple.png)
-*Exhibit B : Search bar **without** filter on*
 
-If you have your own preference, based on Faculty building, room name or number of seats, click advance to reveal more options (as Exhibit C).
+ถ้าคุณมีรายละเอียดของห้องเพิ่มเติม สามารถกดค้นหาขั้นสูงได้
 
 ![Search Page](../../img/search-page/advanced.png)
-*Exhibit C : Search bar **with** filter on*
 
-> Note : You need to enter **at least** 1 filter in order to search.<br>
-You may add more filters afterward.
+> หมายเหตุ : คุณต้องใส่**อย่างน้อย** 1 ช่องที่มีให้ในการค้นหาขั้นสูงYou need to enter<br>
+คุสามารถใส่ข้อมูลในช่องอื่นเพิ่มเติมได้ในภายหลัง
 
-After filling the filter, click “Search” button to continue.
+หลังจากใส่ข้อมูลเท่าที่ต้องการแล้ว, กดค้นหาเพื่อดำเนินการต่อ
 
-## Step 3 - Modifying search preference
-Result that match your filter will come up. <br>
-You may click at the card to see more information about the space, or to start the reservation process.
+## ขั้นที่ 3 - Modifying search preference
+ระบบจะแสดงหน้าผลการค้นหา<br>
+กดที่บัตรเพื่อแสดงข้อมูลพื้นที่เพิ่มเติม หรือกดเพื่อเริ่มการจอง
 
 ![Search Result without filter on](../../img/search-result/simple.png)
-*Exhibit D : Search result based on your filter(s)*
 
-> Note : You may change your filter (adding, modifying and remove your filter) at any time. <br>
-Click "search" to redo the search with your new search filter.
+> หมายเหตุ : คุณสามารถเปลี่ยนข้อมูล (เพิ่ม, แก้ไข หรือ ลบ) ได้ทุกเวลา. <br>
+กดค้นหา เพื่อค้นหาพื้นที่ตามข้อมูลที่เปลี่ยนใหม่.
 
-## Step 4 - View space information and notices
-By clicking the result card, it will leads to a space information page.<br>
-Space that is not open public, a [sign in]() is required.
+## ขั้นที่ 4 - ดูข้อมูลพื้นที่ และ การแจ้งเตือน
+กดบัตรพื้นที่การจองที่แสดงบนจอ เพื่อดูรายละเอียดข้อมูลพื้นที่นั้น.<br>
+พื้นที่ที่ไม่ใช่ที่สาธารณะ,ต้องการการเข้าสู่ระบบ
 
 ![Overall room information](../../img/room-info/overall.png)
-*Exhibit E : Overall room information*
 
-This page gives information about the space's amenity. Those amenity is already inside a space and you do not need to request of use.
+หน้านี้บอกข้อมูล ของสิ่งที่มีภายในห้องนั้นๆ ซึ่งสามารถใช้ได้โดยไม่ต้องขอเพิ่ม
 
 ![Provided amenity](../../img/room-info/room-amenity.png)
-*Exhibit 4 : Room amenity*
 
-User with administration permission can add more information about the space at anytime.
+ผู้ใช้ที่เป็นผู้ดูแลจะสามารถเพิ่มข้อมูลพื้นที่ได้ตลอดเวลา.
 
-At the bottom of the page, you can start reserve that space. Time that is count as available will be marked in Green. User can click or swipe the time you want to reserve and click the calendar to change a date of reservation.
 
-### [[NEXT UP] Reserve a space -->>](manual/client/reserve-a-space.md)
