@@ -3,7 +3,7 @@
   * [ค้นหาสถานที่](/th/client/search-for-space.md)
   * [จองสถานที่](/th/client/reserve-a-space.md)
 
-  * [ดูสถานนะการขอใช้สถานที่](/th/client/check-reqest.md)
+  * [ดูสถานะการขอใช้สถานที่](/th/client/check-reqest.md)
   * [ยกเลิกการขอใช้สถานที่](/th/client/cancel-a-request.md)
 
   * [แจ้งปัญหาของสถานที่](/th/client/report-a-problem.md)
