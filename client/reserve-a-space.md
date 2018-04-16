@@ -8,7 +8,7 @@ Step 1 - Choose a time to reserve
 At the bottom of the room photo profile, there is a reserve card.
 Clicking at the left or right button to change a date. Or clicking a calendar to change to a specific date.
 
-![](/img/room-info/select time.png)
+![](../../img/room-info/select time.png)
 *Exhibit A : Reserve a space from 9:00 to 12:00*
 
 Choosing a time by clicking at the green bubble (Green bubble is for available) and it will turn blue.
@@ -19,7 +19,7 @@ You may not reserve 9:00 till 9:30 and 10:00 till 11:00 in the same request. You
 Choosing a 9 bubble to reserve 9:00 to 9:29.
 If you liked to reserve 9:00 till 12:00, click at the 9 bubble and 11.30 bubble as in Exhibit B.
 
-![](/img/room-info/select time zoom.png)
+![](../../img/room-info/select time zoom.png)
 *Exhibit B : Available time (colored in green) and chosen time (colored in blue)*
 
 Then click reserve to start the reservation process.
@@ -27,7 +27,7 @@ Then click reserve to start the reservation process.
 Step 2 - Enter reservation additional fields
 Most of the reservation needs more than a date, time and space. Reservation needs a reasons to reserve. This will directly given to authorities and approver for evaluating user request.
 
-![](/img/form-request/form-without-info.png) 
+![](../../img/form-request/form-without-info.png) 
 *Exhibit C : Additional information about user*
 
 Some space will require more information about user (eg. Phone Number, Student ID, E-Mail Address). These personal information will be automatically filled up using your information. ;All of these information will be stored as a logging process.

@@ -25,5 +25,9 @@
   * [แก้ไขข้อมูลของกลุ่มผู้ใช้](/th/admin/edit-group.md)
   * [ลบกลุ่มผู้ใช้](/th/admin/delete-group.md)
 
+  * [เพื่มอุปกรณ์ที่สามารถยืมได้](/th/admin/add-material.md)
+  * [ตั้งสถานะการให้ยืมอุปกรณ์](/th/admin/bound-material.md)
+  * [ลบอุปกรณ์ในระบบ](/th/admin/delete-material.md)
+
   * [ตั้งการอนุญาติให้กับกลุ่มผู้ใช้งาน](/th/admin/assign-permission.md)
   * [ยกเลิกการอนุญาติของกลุ่มผู้ใช้งาน](/th/admin/remove-permission.md)
