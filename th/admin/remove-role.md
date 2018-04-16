@@ -1,3 +1,11 @@
 # ลบผู้ใช้งาน
+## ขั้นที่ 1 เข้าหน้าจัดการสิทธิ์
+![](../../img/navigation-bar/permission-button.png)
+
+## ขั้นที่ 2 กดเลือกกลุ่ม ที่จะเพิ่มผู้ใช้เข้าไป
+![](../../img/manage-role-permission/overall.png)
+
+## ขั้นที่ 3 กดปุ่มถังขยะเพื่อลบผู้ใช้ออกจากสิทธิ์
+![](../../img/manage-role-permission/user-group.png)
 
 
