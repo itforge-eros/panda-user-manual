@@ -3,7 +3,7 @@
   * [ค้นหาสถานที่](/th/client/search-for-space.md)
   * [จองสถานที่](/th/client/reserve-a-space.md)
 
-  * [ดูสถานนะการขอใช้สถานที่](/th/client/check-reqest.md)
+  * [ดูสถานะการขอใช้สถานที่](/th/client/check-reqest.md)
   * [ยกเลิกการขอใช้สถานที่](/th/client/cancel-a-request.md)
 
   * [แจ้งปัญหาของสถานที่](/th/client/report-a-problem.md)
@@ -18,8 +18,8 @@
   * [ลบสถานที่ออกจากระบบ](/th/admin/delete-space.md)
 
   * [เพี่มผู้ใช้เข้ากลุ่มผู้ใช้งาน](/th/admin/add-role.md)
-  * [แก้ไขข้อมูลกลุ่มผู้ใช้งาน](/th/admin/edit-role.md)
-  * [ลบกลุ่มผู้ใช้งาน](/th/admin/remove-role.md)
+  * [แก้ไขข้อมูลผู้ใช้งาน](/th/admin/edit-role.md)
+  * [ลบผู้ใช้งาน](/th/admin/remove-role.md)
 
   * [สร้างกลุ่มผู้ใช้ใหม่](/th/admin/create-group.md)
   * [แก้ไขข้อมูลของกลุ่มผู้ใช้](/th/admin/edit-group.md)
