@@ -30,3 +30,7 @@
 
   * [Assign a permission to group](/admin/assign-permission.md)
   * [Revoke a permission from group](/admin/remove-permission.md)
+
+* Documents
+  * [Current System](/others/current-system.md)
+  * [Project Initiation](/others/project-initiation.md) 
