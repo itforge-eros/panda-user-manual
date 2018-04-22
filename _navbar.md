@@ -1,10 +1,3 @@
-* 🌐 Change Language
-	* [🇹🇭 ไทย](/th/)
-	* [🇺🇸 English](/)
-
-* Panda Repo
-
-  * [Panda User Manual](https://github.com/itforge-eros/panda-user-manual)
-  * [Panda APIs](https://github.com/itforge-eros/panda-api)
-  * [Panda Website Development](https://github.com/itforge-eros/panda-website)
-  * [Panda Documentation](https://github.com/itforge-eros/panda-docs)
+* [🌐 เปลี่ยนภาษา](/th/)
+* [Service](https://space.itforge.io)
+* [Developer](https://docs.space.itforge.io)

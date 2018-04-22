@@ -5,6 +5,6 @@ Version 1.0 <small>beta 1</small>
 
 [ภาษาไทย](/th/)
 [Getting Start](/client/search-for-space.md)
-[Website](https://panda.itforge.io)
+[Website](https://space.itforge.io)
 
 <!-- background color -->

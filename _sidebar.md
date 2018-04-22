@@ -24,5 +24,13 @@
   * [Edit a group](/admin/edit-group.md)
   * [Delete a group](/admin/delete-group.md)
 
+  * [Add a new equipment](/admin/add-material.md)
+  * [Bound/Unbound equipment to space](/admin/bound-material.md)
+  * [Remove an equipment](/admin/delete-material.md)
+
   * [Assign a permission to group](/admin/assign-permission.md)
   * [Revoke a permission from group](/admin/remove-permission.md)
+
+* Documents
+  * [Current System](/others/current-system.md)
+  * [Project Initiation](/others/project-initiation.md) 
