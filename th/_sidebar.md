@@ -7,14 +7,11 @@
   * [ยกเลิกการขอใช้สถานที่](/th/client/cancel-a-request.md)
 
   * [แจ้งปัญหาของสถานที่](/th/client/report-a-problem.md)
-<<<<<<< HEAD
-=======
-  
->>>>>>> origin/tiger-develop
+
   * [วิธีเข้าสู่ระบบ](/th/client/login.md)
   * [วิธีออกจากระบบ](/th/client/logout.md)
 
-* สำหรับอาจารย์และเจ้าหน้าที่ทั่วไป
+* สำหรับผู้ใช้งานที่มีอำนาจในการอนุมัติ
   * [อนุมัติการใช้สถานที่](/th/approver/approve-request.md)
   * [ปฎิเสธคำร้องการใช้สถานที่](/th/approver/decline-request.md)
 
