@@ -18,7 +18,7 @@
   <div id="app"></div>
   <script>
   window.$docsify = {
-    name: 'Panda User Manual',
+    name: 'Panda User Documentation',
     repo: 'https://github.com/itforge-eros/panda-user-manual',
     auto2top: true,
     coverpage: {
@@ -28,13 +28,12 @@
     loadSidebar: true,
     loadNavbar: true,
     mergeNavbar: true,
-    subMaxLevel: 2,
-    name: 'Panda User Manual',
+    subMaxLevel: 1,
     routerMode: 'history',
     search: {
       noData: {
-        '/th/': 'ไม่พบผลลัพธ์',
-        '/': 'No result'
+        '/th/': '× ไม่พบผลลัพธ์',
+        '/': '× No result'
       },
       paths: 'auto',
       placeholder: {
@@ -51,11 +50,10 @@
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 
-  <!--Additional Plugins-->
+  <!-- Not that necessary plugin -->
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
 </body>
 </html>
