@@ -7,10 +7,7 @@
   * [ยกเลิกการขอใช้สถานที่](/th/client/cancel-a-request.md)
 
   * [แจ้งปัญหาของสถานที่](/th/client/report-a-problem.md)
-<<<<<<< HEAD
-=======
-  
->>>>>>> origin/tiger-develop
+
   * [วิธีเข้าสู่ระบบ](/th/client/login.md)
   * [วิธีออกจากระบบ](/th/client/logout.md)
 
