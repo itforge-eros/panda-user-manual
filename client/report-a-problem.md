@@ -1,26 +1,12 @@
-# Report a problem
+# แจ้งปัญหาของสถานที่
 
-## Step 1 - Choose a room to Report
-Requires user to go into a space information page by searching a space
+> ก่อนจะแจ้งปัญหาของสถานที่ จะต้องกดค้นหาพื้นที่ที่จะรายงานก่อน โดยอ่านได้จากหัวข้อค้นหาสถานที่
 
-You can report a problem from one space at a time.
-
-## Step 2 - Click report a problem link
-Click the "Report a problem" button at the bottom of the photo as Exhibit A
-
+## ขั้นที่ 1 - กดปุ่มรายงานปัญหา
 ![](../../img/report-a-problem/report-button.png)
-*Exhibit A : Report a problem button is at the bottom of the space photo*
 
-## Step 3 - Create a report
-By clicking the "Report a problem" button, this screen (as Exhibit B) will show up and you can type in the information about the space.
-
-![](../../img/report-a-problem//report-form.png)
-*Exhibit B : Report a problem form*
-
-Your information can lead to faster service and repair. This report will go to administrator automatically with your basic information.
-
-## Step 4 - Submit a report
-Click the "submit" button to send your report to administrator.
-
-![](../../img/report-a-problem/send-button.png)
- *Exhibit C : Submit button*
+## ขั้นที่ 2 - รายงานปัญหา
+พิมพ์รายงานปัญหา และ กดส่งรายงาน เมื่อกดปุ่มรายงานปัญหา จะเข้าสู่หน้าการกรอกเอกสารรายงานปัญหา
+![](../../img/report-a-problem/report-form.png)
+<br>เมื่อกรอกปัญหาในช่องว่างเสร็จ ให้กดปุ่มส่งรายงาน เพื่อเสร็จสิ้นการรายงานปัญหา
+> หมายเหตุ: รายงานนี้จะถูกส่งไปให้ผู้ดูแลระบบ

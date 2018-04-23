@@ -1,3 +1,3 @@
-* [🌐 เปลี่ยนภาษา](/th/)
-* [Service](https://space.itforge.io)
-* [Developer](https://docs.space.itforge.io)
+* [🌐 Change Language](/)
+* [เข้าสู่ระบบ](https://space.itforge.io)
+* [นักพัฒนา](https://docs.space.itforge.io)
