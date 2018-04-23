@@ -1,24 +1,35 @@
-# Approve a request
+# อนุมัติการใช้สถานที่
+ผู้อนุมัติจะสามารถตัดสินใจอนุมัติ.<br>
 
-## Step 1 - Go to a request
-Click the `manage approval` button
+การจองที่ไม่จำเป็นต้องใช้ผู้อนุมัติจะไม่แสดงในรายการ.
+
+## ขั้นที่ 1 - ไปยังรายการการจอง
+กดปุ่มจัดการคำร้อง
+
 ![](../../img/navigation-bar/manage-request-button.png)
-*Exhibit A - Manage Request button*
+
+จะไปยังหน้าแสดงรายการคำร้องที่คุณสามารถจัดการได้.
 
 ![](../../img/manage-request/overall.png)
-*Exhibit B - All pending approval that you can approve*
 
-## Step 2 - See the request description
-Click on the request that you want to approve and the request description will be shown.
+# ขั้นที่ 2 - ดูรายละเอียดของการจอง
+กดการจองที่ต้องการตัดสินใจ เพื่อดูรายละเอียด และ เหตุผลของการจองนั้น
 
-## Step 3
-At the end of the description, there is a approve or decline button as in Exhibit D
+![](../../img/user-request/description.png)
+
+ข้อมูลการจองจะถูกแสดง
+
+# ขั้นที่ 3 - การอนุมัติ
+กดปุ่ม อนุมัติ
 
 ![](../../img/manage-request/approve-decline-button.png)
-*Exhibit D - Approve and Decline button*
 
-## Step 4
-After clicking either "Approve" or "Decline" button, you must typed in a password again for your approval to be confirmed.
+
+หมายเหตุ : การตัดสินใจนี้จะแจ้งเตือนไปยังผู้จอง และ ผู้ดูแลระบบ
+
+# ขั้นที่ 4 - พิมพ์รหัสผ่านผู้ใช้
+เพื่อยืนยันการตัดสินใจ และทำให้การตัดสินใจเป็นผล
 
 ![](../../img/manage-request/password-confirmation.png)
-*Exhibit E - Password confirmation*
+
+หลังจากนั้น, การจองนั้นจะถูกตัดสินใจโดยผู้อนุมัติคนอื่นต่อไป หรือ อาจเป็นผลตามที่ผู้อนุมัติกระทำได้เลย
