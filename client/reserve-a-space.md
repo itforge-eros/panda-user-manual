@@ -1,44 +1,45 @@
-# Reserve a space
+# จองสถานที่
+> ก่อนการจองสถานที่ ผู้ใช้จำเป็นต้องค้นหาสถานที่ก่อน โดยรายละเอียดวิธีการค้นหาอยู่ในหัวข้อ ค้นหาสถานที่ ของคู่มือการใช้งาน <br>
 
-This is the first step for you to reserve a room with us. All of the functions will be opened to everyone to search for your perfect space. But in order to reserve that space, signing in to the service is required.
+> เมื่อเข้าสู่หน้าสถานที่ที่ต้องการจองแล้ว จะปรากฎรายละเอียดของสถานที่นั้นเพื่อประกอบในการตัดสินใจ ประกอบด้วย ชื่อสถานที่ ชื่อคณะ รูปภาพสถานที่(ภาพที่ 0.1) จำนวนที่นั่งที่รองรับ และอุปรณ์ที่มีให้ภายในห้อง ซึ่งสามารถใช้ได้โดยไม่ต้องขอยืม (ภาพที่ 0.2)
+![](../../img/room-info/overall.png)
 
-If you have not done search for space step, please do so before proceeding
+## ขั้นที่ 1 - เปลี่ยนวันเดือนปี
+ในหน้านี้จะมีช่องปฏิทินซึ่งระบุวันที่ตามที่ผู้ใช้ระบุเมื่อค้นหา <br> 
 
-Step 1 - Choose a time to reserve
-At the bottom of the room photo profile, there is a reserve card.
-Clicking at the left or right button to change a date. Or clicking a calendar to change to a specific date.
+แต่หากต้องการเปลี่ยนวันเดือนปีก็สามารถกดเข้าไปที่ช่องปฏิทิน1ครั้ง แล้วปฏิทินจะปรากฎขึ้นมา <br> 
 
-![](../../img/room-info/select time.png)
-*Exhibit A : Reserve a space from 9:00 to 12:00*
+และสามารถเลือกวันเดือนปีอื่นที่ทางระบบกำหนดให้เลือกได้ โดยรายละเอียดของการเลือกวันเดือนปี จะอยู่ในหัวข้อ ค้นหาสถานที่ 
 
-Choosing a time by clicking at the green bubble (Green bubble is for available) and it will turn blue.
-A red bubble means "not available" and you cannot reserve that period of time.
+## ขั้นที่ 2 - เลือกช่วงเวลา
+ใต้ปฏิทิน จะมีแถบเวลาในวันที่เลือก ลักษณะเป็นวงกลมหลายๆวง โดยวงกลมแต่ละวงเท่ากับช่วงเวลาครึ่งชั่วโมง และมีเลขช่วงเวลากำกับอยู่ด้านบน เลขโดดคือเวลาชั่วโมง และ .30 คือครึ่งชั่วโมงจากวงกลมก่อนหน้า <br>
 
-You may not reserve 9:00 till 9:30 and 10:00 till 11:00 in the same request. You need to redo the reservation again for discontinued request time.
+ช่วงเวลาที่สามารถจองได้จะเป็นวงกลมสีเขียว และ ช่วงเวลาที่ไม่สามารถจองได้จะเป็นวงกลมสีแดง <br>
 
-Choosing a 9 bubble to reserve 9:00 to 9:29.
-If you liked to reserve 9:00 till 12:00, click at the 9 bubble and 11.30 bubble as in Exhibit B.
+หากต้องการของครึ่งชั่วโมงให้กดที่วงกลมของช่วงเวลานั้นเพียงวงเดียว แล้ววงกลมนั้นจะเปลี่ยนเป็นสีฟ้า ซึ่งแสดงว่าปัจจุบันผู้ใช้เลือกช่วงเวลานี้อยู่ <br>
+![](../../img/room-info/select%20time.png)
 
-![](../../img/room-info/select time zoom.png)
-*Exhibit B : Available time (colored in green) and chosen time (colored in blue)*
+แต่หากต้องการจองมากกว่าครึ่งชั่วโมงให้กดที่วงกลมสีเขียวที่เป็นช่วงเวลาแรกที่ต้องการจอง <br> 
 
-Then click reserve to start the reservation process.
+และวงกลมสีเขียวอีกวงที่ไม่มีวงกลมสีแดงมาคั่นเพื่อเป็นการจองในระยะเวลาจากวงกลมแรกถึงวงกลมที่สอง โดยเมื่อกดทั้งสองวงแล้ว วงกลมทั้งหมดที่อยู่ภายในวงกลมองวงนี้จะเป็นสีฟ้าไปด้วย ซึ่งเป็นการแสดงช่วงเวลาที่ผู้ใช้ต้องการจอง <br>
+![](../../img/room-info/select%20time%20range.png)
 
-Step 2 - Enter reservation additional fields
-Most of the reservation needs more than a date, time and space. Reservation needs a reasons to reserve. This will directly given to authorities and approver for evaluating user request.
+## ขั้นที่ 3 - จอง
+เมื่อเลือกเวลาซึงวงกลมเป็นสีฟ้า แล้วปุ่มจองจะปรากฏขึ้น ปุ่มมีลักษณะเป็นสีฟ้ารูปดินสอ ถ้าผู้ใช้ต้องการจองช่วงเวลาที่เลือกไว้ ให้กดที่ปุ่มจองเพื่อดำเนินการต่อ (ภาพที่ 3.1)<br>
 
-![](../../img/form-request/form-without-info.png) 
-*Exhibit C : Additional information about user*
+> ###เพิ่มเติม:
+> การจองจำเป็นต้องมีการเข้าสู่ระบบ ซึ่งรายละเอียดการเข้าสู่ระบบ สามารถดูในหัวข้อ วิธีเข้าสู่ระบบ จากคู่มือการใช้งาน
+> โดยหากเป็นสถานที่ที่ต้องการการเข้าสู่ระบบ แล้วผู้ใช้ยังไม่ได้เข้าสู่ระบบ เว็บไซต์ก็จะแสดงหน้าเข้าสู่ระบบแก่ผู้ใช้ (ภาพที่ 3.2)<br>
+![](../../img/Screen%20Shot%202018-04-19%20at%2009.07.15.png)
+เมื่อกดปุ่มจองแล้ว จะเข้าสู่หน้ากรอกรายละเอียดการจอง ซึ่งการจองส่วนมากต้องการมากกว่าวันที่ เวลา และสถานที่ ในการจองจำเป็นต้องมีเหตุผลในการจองด้วย นี่เป็นส่วนสำคัญในการตัดสินใจอนุมัติของผู้อนุมัติ (ภาพที่ 3.3)<br>
+![](../../img/form-request/form-without-info.png)
 
-Some space will require more information about user (eg. Phone Number, Student ID, E-Mail Address). These personal information will be automatically filled up using your information. ;All of these information will be stored as a logging process.
+> ###เพิ่มเติม:
+> บางพื้นที่ต้องการข้อมูลของผู้จองด้วย เช่น เบอร์โทรศัพท์ ซึ่งข้อมูลเหล่านี้จะถูกกรอกอัตโนมัติ โดยใช้ข้อมูลผู้ใช้ และข้อมูลทั้งหมดนี้จะถูกเก็บไว้ใน log
 
-By filling up the reservation form and clicking continue, user can cancel the request at anytime prior to reservation time and accepts faculty or/and university terms and conditions.
+ในหน้านี้ให้กรอกรายละเอียดการจอง เสร็จแล้วกดปุ่ม ส่งข้อมูล
 
-Step 3 - Wait for a confirmation
-After your reservation ticket is approved, you are free to use the room. There is no steps after that.
-
-You will get a notification in inbox of a confirmation ticket. That ticket is used for authentication with faculty administrator, security guards, maid. Printed version of that ticket is preferable.
-
-Note : If you like to cancel a reservation, you might need to contact faculty administration for emergency cancellation. (Please see our reservation cancellation policy for more information)
-
-### [[NEXT UP] Check pending request -->](client/check-reqest.md)
+## ขั้นที่ 4 - รอการอนุมัติ
+เข้าสู่ระบบเพื่อดูรายการการจองของผู้ใช้ เมื่อกดดูรายการการจองจะเห็นแถบการจองที่ผู้ใช้จองไป และ สถานะการอนุมัติ ถ้าเป็นรูปนาฬิกาแสดงว่ากำลังรออนุมัติ (ภาพที่ 4.1)<br>
+![](../../img/user-request/overall.png)
+และเมื่อได้รับการอนุมัติแล้ว จะสามารถใช้ห้องที่จองได้ตามเวลาที่จอง โดยไม่ต้องทำอะไรเพิ่มเติม

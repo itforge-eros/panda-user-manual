@@ -1,55 +1,49 @@
-# Search for space
+# ค้นหาสถานที่
+> ก่อนการค้นหาสถานที่จำเป็นต้องเข้าเว็บ https://space.itforge.io/ ก่อน <br>
+เมื่อเข้ามาแล้วจะเข้าสู่หน้าแรกของเว็บไซต์ซึ่งมีตัวช่วยในการค้นหาอยู่ (มีภาพประกอบใต้ข้อความ)<br>
+![](../../img/1.1.png)
 
-To find your very best match of your usage, this step follows you from searching for a room and let you explore the space that you can reserve.
+## ขั้นที่ 1 - ระบุสถานที่ที่ต้องการ
+โดยปกติระบบจะเริ่มต้นให้วันที่ปัจจุบันมาอัตโนมัติเพื่อให้ค้นหาสถานที่ว่างทั้งหมดภายในวันนั้นได้เลย (ภาพที่ 1.1)<br>
+![](../../img/1.1.png)
+<br>
+หรือสามารถเลือกวันที่ต้องการโดยกด1ครั้งที่ช่องวันเดือนปี แล้วปฏิทินจะปรากฎขึ้นมา (ภาพที่ 1.2)<br>
+![](../../img/1.2.png)
+<br>
+สามารถกดเลือกวันที่จากเลขบนปฎิทินโดยวันที่ที่เลือกได้เลขจะเป็นสีดำ แต่หากเป็นวันที่ที่เลือกไม่ได้เลขจะเป็นสีเทาอ่อน (ภาพที่ 1.3)<br>
+![](../../img/1.3.png)
+<br>
+สามารถเลือกเวลาโดยการกดลูกศรซ้ายเพื่อเลื่อนกลับไปปฏิทินเดือนก่อนหน้า (ภาพที่ 1.4)<br>![](../../img/1.4.png) <br>
+กดลูกศรขวาเพื่อไปยังปฏิทินเดือนถัดไป (ภาพที่ 1.5)<br>![](../../img/1.5.png) <br>
+หรือสามารถกดเลือกเดือนที่ต้องการได้โดยการคลิกที่ชื่อเดือนจะปรากฎชื่อเดือนทั้ง12เดือนให้กดเลือก โดยเดือนที่เลือกได้เลขจะเป็นสีดำ แต่หากเป็นเดือนที่เลือกไม่ได้เลขจะเป็นสีเทาอ่อน (ภาพที่ 1.6)<br>
+![](../../img/1.6.png)
+<br>
+สามารถกดเลือกปีที่ต้องการได้โดยการคลิกที่เลขปีจะปรากฎแถบให้กดปีที่สามารถเลือกได้ (ภาพที่ 1.7)<br>
+![](../../img/1.7.png)
+<br>
+และสามารถระบุรายละเอียดสถานที่เพิ่มเติมโดยพิมพ์ชื่อสถานที่ที่ต้องการในช่อง 'ชื่อสถานที่' (ภาพที่ 1.8)<br>
+![](../../img/1.8.png)<br>
+แต่หากจำชื่อสถานที่ไม่ได้ ระบบก็มีตัวช่วย เป็นปุ่มชื่อ 'แสดงตัวเลือก' กดแล้วจะเห็นช่องตัวช่วย3ช่องอยู่ด้านบนปุ่ม (ภาพที่ 1.9)<br>
+![](../../img/1.9.png)<br>
+ตัวช่วยที่ 1 อยู่ด้านซ้ายมือสุด คือ ช่องตัวเลือกคณะ โดยระบบจะระบุให้คณะเทคโนโลยีสารสนเทศเป็นคณะเริ่มต้น (ภาพที่ 1.10)<br>
+![](../../img/1.10.jpg)<br>
+หากต้องการเปลี่ยนคณะ สามารถกดที่ช่องคณะจะปรากฎแถบคณะทั้งหมดให้กดเลือก (ภาพที่ 1.11)<br>
+![](../../img/1.11.png)<br>
+ตัวช่วยที่ 2 อยู่ตรงกลาง คือ ตัวช่วยในการระบุประเภทของสถานที่ โดยระบบจะให้ประเภทเริ่มต้นเป็น ห้องเรียน (ภาพที่ 1.12)<br>
+![](../../img/1.12.jpg)<br>
+แต่หากต้องการห้องประเภทอื่นก็สามารถกดที่ช่องนี้1ครั้ง เพื่อให้แถบประเทสถานที่ทั้งหมดปรากฎขึ้นมาให้กดเลือกประเภทที่ต้องการ (ภาพที่ 1.13)<br>
+![](../../img/1.13.png)<br>
+ตัวช่วยที่ 3 อยู่ด้านขวามือสุด คือ ช่องให้ระบุจำนวนที่นั่งที่รองรับได้ของสถานที่ที่ต้องการ โดยระบบจะไม่ระบุจำนวนที่นั่งเริ่มต้นให้ (ภาพที่ 1.14) <br>
+![](../../img/1.14.jpg)<br>
+และหากไม่ต้องการใช้ตัวช่วย ให้กดปุ่ม 'ซ่อนตัวเลือก' (ภาพที่ 1.15)<br>![](../../img/1.15.png)<br> แล้วกลับไปเป็นการค้นหาแบบเริ่มต้น (ภาพที่ 1.16)<br>![](../../img/1.16.png)<br>
+> ### เพิ่มเติม: 
+> ในหน้าเริ่มต้นจะมีปุ่มตัวช่วยในการเลือก เป็นตัวอย่างชื่อสถานที่ ซึ่งมีลักษณะเป็นปุ่มสีส้ม (ภาพที่ 1.17)<br>![](../../img/1.17.jpg)<br> สามารถกดที่ปุ่มเพื่อให้ระบบกรอกชื่อสถานที่อัตโนมัติ (ภาพที่ 1.18)<br>![](../../img/1.18.png) <br> 
 
-## Step 1 - Go to Search page
-Click the search icon to go search.
-Note : Landing page is a search page.
-
-![](../../img/navigation-bar/search-button.png)
-*Exhibit A : Search button*
-
-## Step 2 - Search for available Space
-In the landing page, type in a name of the space that you want to reserve.
-Or starts with giving only a date that you want to reserve.
-
-![](../../img/search-page/simple.png)
-*Exhibit B : Search bar without filter on*
-
-If you have your own preference, based on Faculty building, room name or number of seats, click advance to reveal more options (as Exhibit C).
-
-![](../../img/search-page/advanced.png)
-*Exhibit C : Search bar with filter on*
-
-Note : You need to enter at least 1 filter in order to search.
-You may add more filters afterward.
-
-After filling the filter, click “Search” button to continue.
-
-## Step 3 - Modifying search preference
-Result that match your filter will come up.
-You may click at the card to see more information about the space, or to start the reservation process.
-
-![](../../img/search-result/simple.png)
-*Exhibit D : Search result based on your filter(s)*
-
-Note : You may change your filter (adding, modifying and remove your filter) at any time.
-Click "search" to redo the search with your new search filter.
-
-## Step 4 - View space information and notices
-By clicking the result card, it will leads to a space information page.
-Space that is not open public, a sign in is required.
-
-![](../../img/room-info/overall.png)
-*Exhibit E : Overall room information*
-
-This page gives information about the space's amenity. Those amenity is already inside a space and you do not need to request of use.
-
-![](../../img/room-info/room-amenity.png)
-*Exhibit F : Room amenity*
-
-User with administration permission can add more information about the space at anytime.
-
-At the bottom of the page, you can start reserve that space. Time that is count as available will be marked in Green. User can click or swipe the time you want to reserve and click the calendar to change a date of reservation.
-
-### [[NEXT UP] Reserve a space -->>](/client/reserve-a-space.md)
+## ขั้นที่ 2 - ค้นหา
+กดปุ่มค้นหา ซึ่งมีลักษณะเป็นปุ่มสีฟ้ารูปแว่นขยาย (ภาพที่ 2.1)<br>
+![](../../img/2.1.png)<br>
+จะปรากฎแถบสถานที่ต่างๆ ที่ตรงกับข้อมูลที่ระบุ (ภาพที่ 2.2)<br>
+![](../../img/2.2.png)<br>
+> ### เพิ่มเติม: 
+> เมื่อกดเข้าไปยังแถบสถานที่ใดสถานที่หนึ่ง จะเข้าสู่หน้ารายละเอียดสถานที่ ซึ่งสามารถดูรายละเอียดสถานที่ (ภาพที่ 0.1) รายงานปัญหาสถานที่ หรือ จองสถานที่โดยรายละเอียดการใช้งานอยู่ในหัวข้ออื่น ของคู่มือการใช้งาน
+![](../../img/room-info/select%20time%20range.png)
