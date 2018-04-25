@@ -1,5 +1,4 @@
 # ลบอุปกรณ์ในระบบ
-
 ## ขั้นที่ 1 - กดปุ่มจัดการอุปกรณ์ให้ยืม
 ![](../../img/navigation-bar/manage-equipment-button.png)
 
