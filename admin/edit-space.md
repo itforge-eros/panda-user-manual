@@ -1,11 +1,11 @@
 # แก้ไขข้อมูลสถานที่
 ## ขั้นที่ 1 - กดปุ่มจัดการสถานที่
-![](../../img/navigation-bar/manage-space-button.png)
+![](../img/navigation-bar/manage-space-button.png)
 
 ## ขั้นที่ 2 - แสดงรายการสถานที่
 กดในรายการสถานที่เพื่อเข้าหน้าแก้ไขข้อมูลอุปกรณ์
-![](../../img/manage-space/space.png)
+![](../img/manage-space/space.png)
 
 ## ขั้นที่ 3 - แก้ไขข้อมูลอุปกรณ์ในสถานที่
 และ กดปุ่มเพิ่มอุปกรณ์ใหม่ พิมพ์ชื่ออุปกรณ์ และกด `Enter`
-![](../../img/manage-equipment/simple.png)
+![](../img/manage-equipment/simple.png)

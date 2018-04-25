@@ -1,8 +1,8 @@
 # ลบสถานที่ออกจากระบบ
 
 ## ขั้นที่ 1 - กดปุ่มจัดการสถานที่
-![](../../img/navigation-bar/manage-space-button.png)
+![](../img/navigation-bar/manage-space-button.png)
 
-## ขั้นที่ 2 - กดปุ่มถังขยะ 
+## ขั้นที่ 2 - กดปุ่มถังขยะ
 เพื่อลบสถานที่ที่ต้องการออกจากระบบ
-![](../../img/manage-space/space.png)
+![](../img/manage-space/space.png)

@@ -33,4 +33,4 @@
 
 * Documents
   * [Current System](/en/others/current-system.md)
-  * [Project Initiation](/en/others/project-initiation.md) 
+  * [Project Initiation](/en/others/project-initiation.md)

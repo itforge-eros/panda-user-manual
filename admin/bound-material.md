@@ -1,8 +1,11 @@
 # ตั้งสถานะการให้ยืมอุปกรณ์
+
 ## ขั้นที่ 1 - กดปุ่มจัดการอุปกรณ์ให้ยืม
-![](../../img/navigation-bar/manage-equipment-button.png)
+![](../img/navigation-bar/manage-equipment-button.png)
+
 ## ขั้นที่ 2 - กดเข้าไปที่อุปกรณ์
 เพื่อทำการแก้ไขสถานะ
-![](../../img/manage-equipment/simple.png)
+![](../img/manage-equipment/simple.png)
+
 ## ขั้นที่ 3 - แก้ไขสถานะอุปกรณ์
 โดยการกดปุ่ม สามารถใช้งานได้ หรือ ไม่สามารถใช้งานได้
