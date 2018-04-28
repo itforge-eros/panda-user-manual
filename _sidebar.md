@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 * สำหรับผู้ใช้งานทั่วไป
-  * [ค้นหาสถานที่](client/search-for-space.md)
+  * [ค้นหาสถานที่](client/find-space.md)
   * [จองสถานที่](client/reserve-a-space.md)
 
   * [ดูสถานะการขอใช้สถานที่](client/check-reqest.md)
