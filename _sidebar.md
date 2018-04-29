@@ -21,7 +21,6 @@
   * [ลบสถานที่ออกจากระบบ](admin/delete-space.md)
 
   * [เพี่มผู้ใช้เข้ากลุ่มผู้ใช้งาน](admin/add-role.md)
-  * [แก้ไขข้อมูลผู้ใช้งาน](admin/edit-role.md)
   * [ลบผู้ใช้งาน](admin/remove-role.md)
 
   * [สร้างกลุ่มผู้ใช้ใหม่](admin/create-group.md)
