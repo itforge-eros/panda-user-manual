@@ -29,6 +29,3 @@
 
   * [เพื่มอุปกรณ์ที่สามารถยืมได้](admin/add-material.md)
   * [ลบอุปกรณ์ในระบบ](admin/delete-material.md)
-
-  * [ตั้งการอนุญาติให้กับกลุ่มผู้ใช้งาน](admin/assign-permission.md)
-  * [ยกเลิกการอนุญาติของกลุ่มผู้ใช้งาน](admin/remove-permission.md)
