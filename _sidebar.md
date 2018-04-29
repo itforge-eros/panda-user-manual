@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 * สำหรับผู้ใช้งานทั่วไป
-  * [ค้นหาสถานที่](client/search-for-space.md)
+  * [ค้นหาสถานที่](client/find-space.md)
   * [จองสถานที่](client/reserve-a-space.md)
 
   * [ดูสถานะการขอใช้สถานที่](client/check-reqest.md)
@@ -21,7 +21,6 @@
   * [ลบสถานที่ออกจากระบบ](admin/delete-space.md)
 
   * [เพี่มผู้ใช้เข้ากลุ่มผู้ใช้งาน](admin/add-role.md)
-  * [แก้ไขข้อมูลผู้ใช้งาน](admin/edit-role.md)
   * [ลบผู้ใช้งาน](admin/remove-role.md)
 
   * [สร้างกลุ่มผู้ใช้ใหม่](admin/create-group.md)
@@ -29,8 +28,4 @@
   * [ลบกลุ่มผู้ใช้](admin/delete-group.md)
 
   * [เพื่มอุปกรณ์ที่สามารถยืมได้](admin/add-material.md)
-  * [ตั้งสถานะการให้ยืมอุปกรณ์](admin/bound-material.md)
   * [ลบอุปกรณ์ในระบบ](admin/delete-material.md)
-
-  * [ตั้งการอนุญาติให้กับกลุ่มผู้ใช้งาน](admin/assign-permission.md)
-  * [ยกเลิกการอนุญาติของกลุ่มผู้ใช้งาน](admin/remove-permission.md)
