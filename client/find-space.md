@@ -16,7 +16,11 @@
    3.ระบุจำนวนที่นั่งที่ต้องการใช้ <br> 
    ![](../man-img/01.find-space/space-chair.png)<br>
    4.ระบุคณะ <br>
+   เมื่อกดปุ่มลูกศรลง  ![](../man-img/01.find-space/down-arrow.png) มีตัวเลือกดังนี้ สามารถเลือกได้ตัวเลือกใดตัวเลือกหนึ่งจาก 4 ตัวเลือกนี้<br>
    ![](../man-img/01.find-space/space-faculty.png)<br>
+   ![](../man-img/01.find-space/f-engin.png)<br>
+   ![](../man-img/01.find-space/f-it.png)<br>
+   ![](../man-img/01.find-space/f-arch.png)<br>
    5.ระบุประเภทห้อง <br> 
    ![](../man-img/01.find-space/space-room-type.png)<br>
    6.ระบุอุปกรณ์ของห้องที่ต้องการใช้ <br>
