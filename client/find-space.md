@@ -18,10 +18,10 @@
    4.ระบุคณะ <br>
    ![](../man-img/01.find-space/space-faculty.png)<br>
    เมื่อกดปุ่มลูกศรลง  ![](../man-img/01.find-space/down-arrow.png) มีตัวเลือกดังนี้ สามารถกดเลือกได้ตัวเลือกใดตัวเลือกหนึ่งจาก 4 ตัวเลือกนี้<br>
-   ![](../man-img/01.find-space/f-any.png)<br>
-   ![](../man-img/01.find-space/f-engin.png)<br>
-   ![](../man-img/01.find-space/f-it.png)<br>
-   ![](../man-img/01.find-space/f-arch.png)<br>
+      1.คณะใดก็ได้<br>
+      2.คณะวิศวกรรมศาสตร์<br>
+      3.คณะเทคโนโลยีสารสนเทศ<br>
+      4.คณะสถาปัตยกรรมศาสตร์<br>
    5.ระบุประเภทห้อง <br> 
    ![](../man-img/01.find-space/space-room-type.png)<br>
    6.ระบุอุปกรณ์ของห้องที่ต้องการใช้ <br>
