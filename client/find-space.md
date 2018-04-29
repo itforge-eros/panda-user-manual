@@ -9,19 +9,19 @@
 > สามารถระบุเฉพาะหัวข้อที่ต้องการ แล้วไปยังขั้นตอนที่3 ได้เลย
    
    1.ระบุชื่อสถานที่ <br>
-   ![](../man-img/01.find-space/space-location.png)
+   ![](../man-img/01.find-space/space-location.png)<br>
    2.ระบุวันเดือนปี <br>
-   ![](../man-img/01.find-space/space-date.png)
+   ![](../man-img/01.find-space/space-date.png)<br>
    3.ระบุจำนวนที่นั่งที่ต้องการใช้ <br> 
-   ![](../man-img/01.find-space/space-chair.png)
+   ![](../man-img/01.find-space/space-chair.png)<br>
    4.ระบุคณะ <br>
-   ![](../man-img/01.find-space/space-faculty.png)
+   ![](../man-img/01.find-space/space-faculty.png)<br>
    5.ระบุประเภทห้อง <br> 
-   ![](../man-img/01.find-space/space-room-type.png)
+   ![](../man-img/01.find-space/space-room-type.png)<br>
    6.ระบุอุปกรณ์ของห้องที่ต้องการใช้ <br>
-   ![](../man-img/01.find-space/space-equipment.png)
+   ![](../man-img/01.find-space/space-equipment.png)<br>
 ## 3. กดปุ่มค้นหา
-   ![](../man-img/01.find-space/space-find-button.png)
+   ![](../man-img/01.find-space/space-find-button.png)<br>
    เมื่อกดปุ่มค้นหาแล้ว จะขึ้นเป็นแถบห้องต่างๆที่ตรงกับข้อมูลที่ผู้ใช้ระบุ
    สามารถกดเข้าไปเพื่อดูรายละเอียดห้องและจองห้องได้
 > หากอยู่ในหน้าอื่น แล้วต้องการมายังหน้าค้นหาสถานที่ สามารถกดได้ที่ ปุ่มรูปแว่นขยาย ![](../man-img/01.find-space/search-page-button.png) หรือ ปุ่มKMITL OSRS ![](../man-img/01.find-space/home-button.png)
