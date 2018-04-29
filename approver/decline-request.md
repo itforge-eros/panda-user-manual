@@ -1,14 +1,15 @@
 # ปฏิเสธคำร้องการใช้สถานที่
 > เฉพาะผู้อนุมัติเท่านั้นจึงปฏิเสธคำร้องการใช้สถานที่ได้
-
 ## 1. กดปุ่มจัดการคำร้อง
-![](../img/navigation-bar/manage-request-button.png)
-
-  หน้าจอจะแสดงแถบคำร้องที่รอการจัดการอยู่
-  ![](../img/manage-request/overall.png)
-
+![](../img/navigation-bar/manage-request-button.png)<br>
 ## 2. กดคำร้องที่รอการจัดการ
-![](../img/user-request/description.png)
+เมื่อทำขั้นตอนที่1แล้ว หน้าจอจะแสดงรายการคำร้องที่รอการจัดการอยู่<br>
+  ![](../man-img/08.accept-request/waiting-request.png)<br>
+  กดเลือกคำร้องต้องการปฏิเสธ จากรายการคำร้อง<br>
+## 3. ดูรายละเอียดคำร้อง
+เมื่อทำขั้นตอนที่2แล้ว จะเข้าสู่หน้ารายละเอียดคำร้องซึ่งผู้ใช้สามารถปฏิเสธได้
+  ![](../man-img/08.accept-request/request-detail.png)
 
-## 3. กดปุ่มปฏิเสธ
-![](../img/manage-request/approve-decline-button.png)
+## 4. กดปุ่มปฏิเสธ
+![](../man-img/09.decline-request/decline.png)
+
