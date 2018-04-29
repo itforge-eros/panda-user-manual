@@ -11,7 +11,7 @@ The Panda Project sources are hosted on GitHub.
 * Project Panda Documentation : [itforge-eros/panda-docs](https://github.com/itforge-eros/panda-docs)
 * Project Panda User Manual : [itforge-eros/panda-user-manual](https://github.com/itforge-eros/panda-user-manual)
 
-# 🚀 Starting up the server
+# 🚀 Localhost this repository
 To preview the website, please run
 ```
 python -m SimpleHTTPServer 3000
