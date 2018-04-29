@@ -6,7 +6,7 @@
 
 
 ## 2. กรอกข้อมูลปัญหา
-![](../man-img/05.report-problem/report-fill.png)
+![](../man-img/05.report-problem/report-fill.png)<br>
 กรอกหัวข้อปัญหา และ รายละเอียดปัญหา แล้ว กดปุ่มส่งรายงาน
-![](../man-img/05.report-problem/report-success.png)
+![](../man-img/05.report-problem/report-success.png)<br>
 เมื่อส่งรายงานสำเร็จ ระบบจะแจ้งเตือนต่อผู้ใช้ สามารถกดปิดการแจ้งเตือนได้เลย
